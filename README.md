@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+PostDoc CS researcher @KIT 🇩🇪. Interested in the efficient application of formal methods for making collective decision aggregation trustworthy.
 
 <!--
 **mi-ki/mi-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
